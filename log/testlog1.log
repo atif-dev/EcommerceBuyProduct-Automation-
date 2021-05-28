@@ -1,0 +1,54 @@
+2021-05-28 18:10:41,146 [main] INFO EcommerceWebForm - Quantity 1 is verified
+2021-05-28 18:10:57,720 [main] INFO EcommerceWebForm - Test Case failed
+2021-05-28 18:13:03,417 [main] INFO EcommerceWebForm - Quantity 1 is verified
+2021-05-28 18:13:17,240 [main] INFO EcommerceWebForm - Total Price is reflecting correct
+2021-05-28 18:13:17,241 [main] INFO EcommerceWebForm - Test Case passed
+2021-05-28 18:16:24,009 [main] INFO EcommerceWebForm - Test Case passed
+2021-05-28 18:17:33,473 [main] INFO EcommerceWebForm - Quantity 1 is verified
+2021-05-28 18:17:47,169 [main] INFO EcommerceWebForm - Total Price is reflecting correct
+2021-05-28 18:17:47,169 [main] INFO EcommerceWebForm - Test Case passed
+2021-05-28 19:01:37,635 [main] INFO EcommerceBuyProduct - Error Message is displayed
+2021-05-28 19:01:37,783 [main] INFO EcommerceBuyProduct - Test case passed
+2021-05-28 19:03:56,162 [main] INFO EcommerceWebForm - Test Case passed
+2021-05-28 19:04:24,477 [main] INFO EcommerceBuyProduct - Error Message is displayed
+2021-05-28 19:04:24,478 [main] INFO EcommerceBuyProduct - Test case passed
+2021-05-28 19:05:30,110 [main] INFO EcommerceWebForm - Quantity 1 is verified
+2021-05-28 19:05:47,016 [main] INFO EcommerceWebForm - Total Price is reflecting correct
+2021-05-28 19:05:47,017 [main] INFO EcommerceWebForm - Test Case passed
+2021-05-28 19:17:17,910 [main] INFO EcommerceWebForm - Test Case passed
+2021-05-28 19:17:56,538 [main] INFO EcommerceBuyProduct - Error Message is displayed
+2021-05-28 19:17:56,539 [main] INFO EcommerceBuyProduct - Test case passed
+2021-05-28 19:18:57,997 [main] INFO EcommerceWebForm - Quantity 1 is verified
+2021-05-28 19:19:12,320 [main] INFO EcommerceWebForm - Total Price is reflecting correct
+2021-05-28 19:19:12,321 [main] INFO EcommerceWebForm - Test Case passed
+2021-05-28 19:35:03,043 [main] INFO EcommerceBuyProduct - Error Message is displayed
+2021-05-28 19:35:03,047 [main] INFO EcommerceBuyProduct - Test case passed
+2021-05-28 19:35:48,492 [main] INFO EcommerceWebForm - Quantity 1 is verified
+2021-05-28 19:36:02,162 [main] INFO EcommerceWebForm - Total Price is reflecting correct
+2021-05-28 19:36:02,162 [main] INFO EcommerceWebForm - Test Case passed
+2021-05-28 19:46:52,783 [main] INFO EcommerceWebForm - Test Case passed
+2021-05-28 19:47:19,792 [main] INFO EcommerceBuyProduct - Error Message is displayed
+2021-05-28 19:47:19,793 [main] INFO EcommerceBuyProduct - Test case passed
+2021-05-28 19:47:59,697 [main] INFO EcommerceWebForm - Quantity 1 is verified
+2021-05-28 19:48:14,770 [main] INFO EcommerceWebForm - Total Price is reflecting correct
+2021-05-28 19:48:14,770 [main] INFO EcommerceWebForm - Test Case passed
+2021-05-28 20:03:46,179 [main] INFO EcommerceWebForm - Test Case passed
+2021-05-28 20:05:01,443 [main] INFO EcommerceWebForm - Quantity 1 is verified
+2021-05-28 20:05:17,592 [main] INFO EcommerceWebForm - Total Price is reflecting correct
+2021-05-28 20:05:17,592 [main] INFO EcommerceWebForm - Test Case passed
+2021-05-28 20:10:25,135 [main] INFO EcommerceWebForm - Test Case passed
+2021-05-28 20:11:13,325 [main] INFO EcommerceBuyProduct - Error Message is displayed
+2021-05-28 20:11:13,325 [main] INFO EcommerceBuyProduct - Test case passed
+2021-05-28 20:12:09,919 [main] INFO EcommerceWebForm - Quantity 1 is verified
+2021-05-28 20:14:28,280 [main] INFO EcommerceWebForm - Test Case passed
+2021-05-28 20:15:05,775 [main] INFO EcommerceBuyProduct - Error Message is displayed
+2021-05-28 20:15:05,775 [main] INFO EcommerceBuyProduct - Test case passed
+2021-05-28 20:15:59,048 [main] INFO EcommerceWebForm - Quantity 1 is verified
+2021-05-28 20:16:12,142 [main] INFO EcommerceWebForm - Total Price is reflecting correct
+2021-05-28 20:16:12,142 [main] INFO EcommerceWebForm - Test Case passed
+2021-05-28 20:28:12,004 [main] INFO EcommerceWebForm - Test Case passed
+2021-05-28 20:29:04,883 [main] INFO EcommerceBuyProduct - Error Message is displayed
+2021-05-28 20:29:04,884 [main] INFO EcommerceBuyProduct - Test case passed
+2021-05-28 20:30:08,747 [main] INFO EcommerceWebForm - Quantity 1 is verified
+2021-05-28 20:30:22,288 [main] INFO EcommerceWebForm - Total Price is reflecting correct
+2021-05-28 20:30:22,289 [main] INFO EcommerceWebForm - Test Case passed

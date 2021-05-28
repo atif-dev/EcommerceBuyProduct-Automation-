@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="EcommerceBuyProduct">
+
+	<listeners>
+		<listener class-name="com.ecommercebuyproduct.utilities.Reporting" />
+	</listeners>
+
+	<test name="EcommerceBuyProduct Test">
+	
+	<parameter name="browser" value="chrome" />	
+		
+		<classes>
+		
+			  		
+			       <class name = "com.ecommercebuyproduct.testcases.TC_01" />
+			        <class name = "com.ecommercebuyproduct.testcases.TC_02" />
+			        <class name = "com.ecommercebuyproduct.testcases.TC_03" />
+			 		  
+		</classes>
+
+	</test>
+
+</suite>
